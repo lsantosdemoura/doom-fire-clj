@@ -1,2 +1,2 @@
-# doom-fire-clj
+# Doom fire
 Doom fire algorithm implemented in clojure
